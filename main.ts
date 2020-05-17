@@ -48,7 +48,7 @@ e e b e c c e e e e e c e b e e
 . e e b b 4 4 4 4 4 4 4 4 e e . 
 . . . c c c c c e e e e e . . . 
 `, SpriteKind.Food)
-mySprite2.setVelocity(0, 80)
+mySprite2.setVelocity(0, 60)
 mySprite2.setPosition(Math.randomRange(20, 140), 0)
 info.startCountdown(60)
 while (true) {
